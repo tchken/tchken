@@ -1,5 +1,7 @@
-# tchken
+# T.C. Ken Han
 
-T.C. Ken Han
+- Data Science
+- Machine Learning, Natural Language Processing, Computer Visions
+
 
 
