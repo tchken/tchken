@@ -2,7 +2,7 @@
 
 ## Machine Learning, Natural Language Processing, Computer Visions
 
-## Techs
+## ======
 ### Language
 Python, JavaScript, HTML, CSS, R, Shell Script, LaTeX, Markdown
 
