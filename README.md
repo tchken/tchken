@@ -1,6 +1,6 @@
 # T.C. Ken Han
 
-## Machine Learning, Deep Learning Natural Language Processing, Computer Visions
+## Machine Learning, Deep Learning, Natural Language Processing, Computer Visions
 
 ## 
 ### Language
