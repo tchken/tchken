@@ -1,4 +1,4 @@
-# T.C. Ken Han
+# T.C. Han
 
 **Machine Learning Engineer — RecSys · Retrieval & Ranking · Deep Learning · LLM/GenAI**
 
