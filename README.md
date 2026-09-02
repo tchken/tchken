@@ -3,7 +3,7 @@
 **Machine Learning Engineer — RecSys · Retrieval & Ranking · Deep Learning · LLM/GenAI**
 
 Building large-scale recommendation systems and production ML platforms.
-Full lifecycle from embeddings and retrieval to real-time serving and MLOps.
+Full lifecycle Machine Learning Model Development.
 
 ### Languages
 Python, SQL, R, Shell, JavaScript
