@@ -1,6 +1,6 @@
 # T.C. Han
 
-**Machine Learning Engineer — RecSys · Retrieval & Ranking · Deep Learning · LLM/GenAI**
+**Machine Learning Engineering/Data Science — Distributed ML, RecSys · Retrieval & Ranking · Deep Learning · GenAI**
 
 Building large-scale recommendation systems and production ML platforms.
 Full lifecycle Machine Learning Model Development.
